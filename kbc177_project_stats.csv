@@ -1,0 +1,2 @@
+project,number of commits,number of authors,max time,min time,number of stars,number of forks,last commit date,LongestGapStart,LongestGapEnd,LongestGapLength,NumCommitsAfterLastGap,NumberOfGapsInTimeline,ActivityPattern
+llnl_hiop,3737,91,2025-11-04 22:14:11,2016-09-27 15:58:14,,,2025-11-04 22:14:11,2017-06,2017-07,2,3620,0,irregular

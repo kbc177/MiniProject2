@@ -1,0 +1,556 @@
+pre/post;project;commit_hash;author;commit_time;commit_message
+pre;barbagroup_aeropython;4147868fe386b53515e953071b6e396964001ba1;Gabriel Weymouth <drweymouth@google.com>;1586360964;"Reorganize
+
+clean up file organization
+"
+pre;barbagroup_aeropython;f15507976a15d9ead06a94ace7a22f6faf3e67f1;Gabriel Weymouth <drweymouth@google.com>;1586362655;"More reorganizing
+"
+pre;barbagroup_aeropython;d473f1f5b505514423a59820906b55afcb1aa198;Gabriel Weymouth <drweymouth@google.com>;1586362763;"Update README.md
+"
+pre;barbagroup_aeropython;bf7ad28e22d5cccc3576336fb616200ec3893ef4;Gabriel Weymouth <drweymouth@google.com>;1587630979;"restore png files
+"
+pre;barbagroup_aeropython;c99a990f0025c808a6615594ea0dc0b3f876077e;Dr Weymouth <gabriel.weymouth@gmail.com>;1587631207;Update PersonalComputer.md
+pre;barbagroup_aeropython;5f60aeb238190bd9413f270a9f17bc49ed124248;Dr Weymouth <gabriel.weymouth@gmail.com>;1587718453;Update Assignment.ipynb
+pre;barbagroup_aeropython;d11ecd6e540d8a873c3a0ad1f005b194d31d2efe;Dr Weymouth <gabriel.weymouth@gmail.com>;1587725389;Update Assignment.ipynb
+pre;barbagroup_aeropython;b47ecb0cf7089d2d57e1bc704f5861697512db66;Dr Weymouth <gabriel.weymouth@gmail.com>;1587904468;"Updated PanelArray.plot with labels
+"
+pre;barbagroup_aeropython;2fb2b1f0a2bdc483b0af61e7b89748be4a5a7b70;Lorena A. Barba <labarba@gwu.edu>;1593107977;add citation
+pre;barbagroup_aeropython;06894fc237b0e477e47948ecf78e21ef8f0ed97d;Lorena A. Barba <labarba@gwu.edu>;1593107997;fix formatting
+post;barbagroup_aeropython;b87af31c9d591680d657801858ad0987ba74f5c6;Lorena A. Barba <labarba@gwu.edu>;1747867434;"remove link to openedx site
+
+the platform is coming offline"
+pre;brian-team_brian2genn;d39a05901b3da1a16effe5433be9221b085d51f8;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690446610;"configure readthedocs via yaml file
+"
+pre;brian-team_brian2genn;97a8a747388f18e85973fa574fd83df69885a0ed;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690448736;"Update doc infrastructure for recent Python versions
+"
+pre;brian-team_brian2genn;8004db070b919cd12932820eeb3c50025b164f7d;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690465153;"Remove outdated release script
+
+[ci skip]
+"
+pre;brian-team_brian2genn;2e9ecc215949bd9c723997aa021914c8ceef9cfa;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690465809;"Use profile=True instead of preference
+"
+pre;brian-team_brian2genn;7412c4661a4dadc6557bf1a61f11d39287ed95b4;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690467826;"Merge remote-tracking branch 'origin/master' into support_profiling_summary
+"
+pre;brian-team_brian2genn;8028d5d293a7a190cf9fd597585eb10b7551bb23;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690468772;"Fix profiling mechanism
+"
+pre;brian-team_brian2genn;c30a2df3b8c9ca411f6c8f621b021d9a4bd9a062;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690533787;"Add mechanism to skip Brian tests
+"
+pre;brian-team_brian2genn;49fe075a0ab3ce626124b029d43f042954773303;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690542400;"Merge pull request #134 from denisalevi/support_profiling_summary
+
+Support reporting kernel timings via `profiling_summary()`"
+pre;brian-team_brian2genn;ab49edef47a573e68db68c6ded1b80a730c68615;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690542618;"Remove left-over argument from test script
+"
+pre;brian-team_brian2genn;9cb3c8a81be3650d87e44dc943fd7ba47a1be6b0;Marcel Stimberg <marcel.stimberg@inserm.fr>;1690548521;"open/close files with context manager
+"
+post;brian-team_brian2genn;903d2abebfa4f51f5fc005b1d5cb106807839d0a;Marcel Stimberg <marcel.stimberg@sorbonne-universite.fr>;1725435945;"Avoid numpy 2
+
+The Brian version we depend on is not yet numpy 2 compatible
+"
+post;brian-team_brian2genn;820c84944f8a276b4e634e5da5f1c0af329a2c62;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1725436044;"Bump actions/download-artifact from 3 to 4.1.7 in /.github/workflows
+
+Bumps [actions/download-artifact](https://github.com/actions/download-artifact) from 3 to 4.1.7.
+- [Release notes](https://github.com/actions/download-artifact/releases)
+- [Commits](https://github.com/actions/download-artifact/compare/v3...v4.1.7)
+
+---
+updated-dependencies:
+- dependency-name: actions/download-artifact
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;brian-team_brian2genn;e427b70e2cbbbcb5b8c173b3df2f15f2437d94fc;Marcel Stimberg <marcel.stimberg@sorbonne-universite.fr>;1725437380;"Add dependabot configuration to update github actions
+"
+post;brian-team_brian2genn;a693d9b04a5a025368c2b451da028a86cf0cead3;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1725437427;"Bump actions/download-artifact from 3 to 4
+
+Bumps [actions/download-artifact](https://github.com/actions/download-artifact) from 3 to 4.
+- [Release notes](https://github.com/actions/download-artifact/releases)
+- [Commits](https://github.com/actions/download-artifact/compare/v3...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/download-artifact
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;brian-team_brian2genn;69cc8662f4c4a299bd961ff2cd72619d163e3843;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1725437429;"Bump mstimberg/github-calc-nep29 from 0.5 to 0.7
+
+Bumps [mstimberg/github-calc-nep29](https://github.com/mstimberg/github-calc-nep29) from 0.5 to 0.7.
+- [Release notes](https://github.com/mstimberg/github-calc-nep29/releases)
+- [Commits](https://github.com/mstimberg/github-calc-nep29/compare/v0.5...v0.7)
+
+---
+updated-dependencies:
+- dependency-name: mstimberg/github-calc-nep29
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;brian-team_brian2genn;a60cea6f3b818677367b230ba98d1a4289a83e76;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1725437431;"Bump actions/checkout from 3 to 4
+
+Bumps [actions/checkout](https://github.com/actions/checkout) from 3 to 4.
+- [Release notes](https://github.com/actions/checkout/releases)
+- [Changelog](https://github.com/actions/checkout/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/actions/checkout/compare/v3...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/checkout
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;brian-team_brian2genn;b17ebbc08a6f5c740071441e269544811b77bf3f;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1725437433;"Bump actions/upload-artifact from 3 to 4
+
+Bumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 3 to 4.
+- [Release notes](https://github.com/actions/upload-artifact/releases)
+- [Commits](https://github.com/actions/upload-artifact/compare/v3...v4)
+
+---
+updated-dependencies:
+- dependency-name: actions/upload-artifact
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;brian-team_brian2genn;a441585a976811790e97fec9432bfa89b02ffda3;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1725437435;"Bump actions/setup-python from 4 to 5
+
+Bumps [actions/setup-python](https://github.com/actions/setup-python) from 4 to 5.
+- [Release notes](https://github.com/actions/setup-python/releases)
+- [Commits](https://github.com/actions/setup-python/compare/v4...v5)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-python
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;brian-team_brian2genn;6c59e0526055b06f0de80d0ee05c32cf2ef1686d;Marcel Stimberg <marcel.stimberg@sorbonne-universite.fr>;1725540426;"Test with newer runners
+
+In particular, macOS-11 is no longer supported
+"
+post;brian-team_brian2genn;ef269934eb7741c606852dc7cec7801a13467683;Marcel Stimberg <marcel.stimberg@sorbonne-universite.fr>;1725540856;"Use miniforge for testing
+"
+pre;helmchenlabsoftware_cascade;1b52f726cec8eb386839ada90aeef0ec87bfaee7;PTRRupprecht <peter.rupprecht@fmi.ch>;1638389503;"Correct datasets 1 and 15, issue #28
+"
+pre;helmchenlabsoftware_cascade;43363cdb8ed7a26f783d455642f383a0dc553707;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1638390348;Updates of ground truth datasets 1 and 15, issue #28
+pre;helmchenlabsoftware_cascade;d392a22796fec9269a7388c868ba5c1b850f7732;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1638402771;Update README.md
+pre;helmchenlabsoftware_cascade;c74bd9273a1cff5a5edce804d7b7371e4b38faac;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1638814504;Recording number ≠ neuron number
+pre;helmchenlabsoftware_cascade;cea125631a855430242ed0be64546d5d3ab60411;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1639177374;"Delete neuron nb. 8 from dataset nb. 20
+
+The underlying calcium imaging data are not related in a meaningful way to the loose-cell recording. Probably calcium imaging and electrophysiology were performed from two different neurons. As a quality control the neuron should therefore be excluded from the dataset."
+pre;helmchenlabsoftware_cascade;9a7e5e9fe3169333e024127e5ef181592d4f3948;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1639177531;"Quality control: delete neuron 8 from dataset 20
+
+Update readme accordingly"
+pre;helmchenlabsoftware_cascade;a7d1339bf36152b07208030cce653a7646560842;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1643827833;"Update conda instructions, fix for issue #29
+
+Update conda instructions, fix for issue #29"
+pre;helmchenlabsoftware_cascade;3f245975317f53944ced9121a42e0301641b639f;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1643827904;Fix potential incompatibility issue
+pre;helmchenlabsoftware_cascade;800f740e92c7d0ed5301d9fb972bbe001fd6a5d6;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1644458592;"Bump tensorflow from 2.2.1 to 2.5.3 in /etc
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.2.1 to 2.5.3.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v2.2.1...v2.5.3)
+
+---
+updated-dependencies:
+- dependency-name: tensorflow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+pre;helmchenlabsoftware_cascade;00e322f048ca61f29098d76759352bde083607a4;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1644475778;"Bump tensorflow from 2.2.1 to 2.5.3
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.2.1 to 2.5.3.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v2.2.1...v2.5.3)
+
+---
+updated-dependencies:
+- dependency-name: tensorflow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;helmchenlabsoftware_cascade;926aba44b1e387ac9cde39d431c8e44f790c98c8;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1652276560;"Enable non-verbose output during predictions, issue #33
+
+Enable non-verbose output during predictions"
+post;helmchenlabsoftware_cascade;a8621e62d464432c4700dab6fa4e466030fa635f;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1652276977;Modified with Colaboratory
+post;helmchenlabsoftware_cascade;2105b56e691341c66c73cbe0a7aaa66b536a35d5;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1652277322;Make less verbose
+post;helmchenlabsoftware_cascade;f8eec7dd7b9b864464cda4667f9bfe03c3069ed5;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1652718113;"Fix bug when selecting the best-fit model for each neuron, issue #32
+
+Fix bug when selecting the best-fit model for each neuron, issue #32"
+post;helmchenlabsoftware_cascade;2612bb8846b37cde8370917b630c2a1aff7f5f39;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1652718881;"Complete documentation of predict() (verbosity)
+
+Complete documentation of the predict() function (verbosity)"
+post;helmchenlabsoftware_cascade;ad9115a27c6f8534d7e1edcf3ff7f763ee7eb0a2;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1653412798;"Bump tensorflow from 2.2.1 to 2.6.4 in /etc
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.2.1 to 2.6.4.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v2.2.1...v2.6.4)
+
+---
+updated-dependencies:
+- dependency-name: tensorflow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;helmchenlabsoftware_cascade;97d1a7dc5cc4fc0fff37567e6e1536dfdf99ff9d;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1653413201;"Bump tensorflow from 2.2.1 to 2.6.4
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.2.1 to 2.6.4.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v2.2.1...v2.6.4)
+
+---
+updated-dependencies:
+- dependency-name: tensorflow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;helmchenlabsoftware_cascade;2da569b30a6d04e630656aa93783d52097462fa1;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1653598465;"Bump tensorflow from 2.2.1 to 2.7.2 in /etc
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.2.1 to 2.7.2.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v2.2.1...v2.7.2)
+
+---
+updated-dependencies:
+- dependency-name: tensorflow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;helmchenlabsoftware_cascade;e965aacc007f993cfe9c4284520a338c1dea0530;dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>;1653598772;"Bump tensorflow from 2.2.1 to 2.7.2
+
+Bumps [tensorflow](https://github.com/tensorflow/tensorflow) from 2.2.1 to 2.7.2.
+- [Release notes](https://github.com/tensorflow/tensorflow/releases)
+- [Changelog](https://github.com/tensorflow/tensorflow/blob/master/RELEASE.md)
+- [Commits](https://github.com/tensorflow/tensorflow/compare/v2.2.1...v2.7.2)
+
+---
+updated-dependencies:
+- dependency-name: tensorflow
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>"
+post;helmchenlabsoftware_cascade;8d5ab1be8580e0576d8029de32e85c477b5d1ca7;Peter Rupprecht <PTRRupprecht@users.noreply.github.com>;1657797834;"Update with models for 1 Hz imaging rate
+
+Update with models for 1 Hz imaging rate"
+pre;insightsoftwareconsortium_simpleitk-notebooks;6e5a69af0fcd8303fc3031930114f2cbc3a759dc;Hans Johnson <hans-johnson@uiowa.edu>;1407793585;"ENH: Added more files to hash.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;f955ac0207fcededd3f074308f16322b9fdbab42;Hans Johnson <hans-johnson@uiowa.edu>;1407793679;"ENH: Improved flexibility of the data download
+
+Multiple midas servers can be searched for the files.
+A progress bar was added for downloading the data.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;815aac517d649ed3ccbd0e174ea3f15933571580;Hans Johnson <hans-johnson@uiowa.edu>;1407810363;"ENH: Updated data download mechanism to be dynamic
+
+Download data automatically as needed in notebooks,
+by retrieving and caching the data in a local repository.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;af900a4b5aff63d82c2c77759decbe5dd504df59;Hans Johnson <hans-johnson@uiowa.edu>;1407810363;"ENH: Updated data download mechanism to be dynamic
+
+Download data automatically as needed in notebooks,
+by retrieving and caching the data in a local repository.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;5a418d61859eafe647b27acf040b84293c71fffc;Hans Johnson <hans-johnson@uiowa.edu>;1407874993;"ENH: Ignore temp files written to this data directory.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;2daed7803105e1bc3afc5b64fa2d03ad29d8428c;Hans Johnson <hans-johnson@uiowa.edu>;1407874993;"ENH: Ignore temp files written to this data directory.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;6f30a53d3e8da2acd94ee6902abbb080ab8d24c1;Hans Johnson <hans-johnson@uiowa.edu>;1407877274;"ENH: Prepare ClearAllOutputs.py for use as a githook.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;f8d0385ddd8dba03f418cbeb45de877192dbab56;Hans Johnson <hans-johnson@uiowa.edu>;1407877981;"ENH: Make master json file as the default
+
+A min_manifest.json file is usable as an input
+to download all the files that are needed by
+default for these notebooks.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;5721e9b748fcaba3eae78bfb247b5bbc66710a0b;Hans Johnson <hans-johnson@uiowa.edu>;1407893402;"ENH: Allow local ITK repository cache to be used as source.
+"
+pre;insightsoftwareconsortium_simpleitk-notebooks;64af96fd2c20e606c265f9954c25c0b1957bde5a;Hans Johnson <hans-johnson@uiowa.edu>;1407894085;"ENH: Added manifest for other repositories.
+"
+post;insightsoftwareconsortium_simpleitk-notebooks;8ad6c84b9ec1b4890e510cc18a5d5253e25cb5ca;Ziv Yaniv <zivyaniv@nih.gov>;1424365394;"Updated the notebooks to be compatible with the new (SimpleITK
+0.9.0b01) registration framework.
+"
+post;insightsoftwareconsortium_simpleitk-notebooks;67798987ce9234ccf2bb713d32df0266a11e878a;Ziv Yaniv <zivyaniv@nih.gov>;1424368876;"Updated gh-pages with registration related pages.
+"
+post;insightsoftwareconsortium_simpleitk-notebooks;c3e0827d29b1aa13617688114cde20c1a7a053eb;Bradley Lowekamp <blowekamp@mail.nih.gov>;1424373066;"Merge pull request #4 from zivy/registrationFrameworkUpdates
+
+Updated the notebooks to be compatible with the new (SimpleITK"
+post;insightsoftwareconsortium_simpleitk-notebooks;095df61a55c40de3cb3abd08d4d1a5181e506502;Bradley Lowekamp <blowekamp@mail.nih.gov>;1424373510;"Merge pull request #5 from zivy/gh-pages
+
+Updated gh-pages with registration related pages."
+post;insightsoftwareconsortium_simpleitk-notebooks;a7264f961d3d42a281d2cc2a71bf833f5ea93d95;Bradley Lowekamp <blowekamp@mail.nih.gov>;1424373914;Update Readme.md
+post;insightsoftwareconsortium_simpleitk-notebooks;cb5499b3a9c5639884f7f2464c474365c7d793c6;Bradley Lowekamp <blowekamp@mail.nih.gov>;1424374008;Create gh-pages branch via GitHub
+post;insightsoftwareconsortium_simpleitk-notebooks;f2e771cc4fdf277719b13e878c02355c19c66714;Ziv Yaniv <zivyaniv@nih.gov>;1430771850;"Modified python 2.x syntax to also work with 3.x
+"
+post;insightsoftwareconsortium_simpleitk-notebooks;513f514b63774eb2dfde34d574d8ca2fd989f269;Ziv Yaniv <zivyaniv@nih.gov>;1430836538;"Notebook introducing the ITKv4 registration framework in SimpleITK.
+"
+post;insightsoftwareconsortium_simpleitk-notebooks;1a986852e2b55bb668e9f9432363d83abbc7b564;Ziv Yaniv <zivyaniv@nih.gov>;1430841516;"Adding RIRE registration notebook.
+"
+post;insightsoftwareconsortium_simpleitk-notebooks;dd36d8e5da1eadbf486893c3734b7519c857e052;Bradley Lowekamp <blowekamp@mail.nih.gov>;1430841913;"Merge pull request #6 from zivy/fixingIssuesWithPython3
+
+Modified python 2.x syntax to also work with 3.x"
+pre;llnl_hiop;ee7540df52b9d4bdd4bee9b36a926b0ed9e98376;Cosmin G. Petra <petra1@llnl.gov>;1493934967;"Added ""make install""
+"
+pre;llnl_hiop;64ef833229d9bc999329d829ee0008ee5760a280;Cosmin G. Petra <petra1@llnl.gov>;1493935664;"Moved Drivers/ to src/
+"
+pre;llnl_hiop;ee6ce8d091b8cee66289bba3ed69b12545c89c39;Cosmin G. Petra <petra1@llnl.gov>;1493935812;"Moved source directories to src/
+"
+pre;llnl_hiop;806a5ef057ac29df7df65ebe84d5f91874e17446;Cosmin G. Petra <petra1@llnl.gov>;1493936042;"Updated CMakeLists script to work with the new directory structure
+"
+pre;llnl_hiop;b62199fc2c7a127bbc1782b1479bfa14ec4788b0;Cosmin G. Petra <petra1@llnl.gov>;1493938035;"Added readme
+"
+pre;llnl_hiop;2087e3e0d6e3253471293c38498e64221352cb3e;Cosmin G. Petra <petra1@llnl.gov>;1493939458;"edited the readme with more build instructions
+"
+pre;llnl_hiop;1d738af9a75395bdf9492405cc03ab067b52eead;Cosmin G Petra <petra1@llnl.gov>;1494022082;"Cached Comm_size in NlpFormulation class
+"
+pre;llnl_hiop;91174071b202baedfd402a2c76b2003241aca559;Cosmin G. Petra <petra1@llnl.gov>;1494370458;"Fixed bug related to missing updates for the slacks and duals direction. Also fixed ""-Wpedantic"" warnings.
+"
+pre;llnl_hiop;2287f77d58a96df9c8074b0a422ac89b78edec4d;Cosmin G. Petra <petra1@llnl.gov>;1494519334;"Added support for 'acceptable tolerances'
+"
+pre;llnl_hiop;95d11938a5d652bb9ffbbdfa397cc0b0205a9fed;Cosmin G Petra <petra1@llnl.gov>;1495033582;"Added a driver for bechmarking/measuring network performance
+"
+post;llnl_hiop;5c3683f5a89a337342babd92f21068aec36f45ff;Cosmin G. Petra <petra1@llnl.gov>;1503354089;"smalish updated the set part of the  interface
+"
+post;llnl_hiop;033ddf3f34e6959ad605748994367659a95bc020;Cosmin G. Petra <petra1@llnl.gov>;1503354405;"fixed a bug in matTimesVec and inf_norm that were occurring for n_local=0
+"
+post;llnl_hiop;e98764f91fd0f144280f442d591164ca141b1e7d;Petra, Cosmin Gheorghita <petra1@llnl.gov>;1503355680;"put a second example for the building
+"
+post;llnl_hiop;5c85e9f007e5c188389ee5b13112d003884173ad;Cosmin G. Petra <petra1@llnl.gov>;1503706292;"Fixed an appropriate printf format string (used '%g' for string)
+"
+post;llnl_hiop;9013ac304f54d00905f8caf14d0859674a94da13;Cosmin G. Petra <petra1@llnl.gov>;1503706355;"Merge branch 'master' of https://mybitbucket.llnl.gov/scm/hiop/hiop
+"
+post;llnl_hiop;9cc5a15a255fc1cd6312fc64b3b6a13f85179728;Cosmin G. Petra <petra1@llnl.gov>;1508449426;"Example 1 - infinite dimensional
+"
+post;llnl_hiop;8fdc9152969c7587c584551ae21186af93e2287a;Cosmin G. Petra <petra1@llnl.gov>;1508952959;"refactorized the algorithm class
+"
+post;llnl_hiop;cdebe799ecda56d0b4c6a36ca7398317905b1999;Cosmin G. Petra <petra1@llnl.gov>;1508961017;"added InnerProdWeight class and started to instrument the code with this functionality
+"
+post;llnl_hiop;878a356299ab4f55e107b981a3b63c9a05f82540;Cosmin G. Petra <petra1@llnl.gov>;1508978029;"work on the WeightOperator. EOD commit
+"
+post;llnl_hiop;909751e5c449a823d45f765d57985c8246ae3476;Cosmin G. Petra <petra1@llnl.gov>;1509064192;"residuals computed in the H norm
+"
+pre;magic-sph_magic;a5fe916776aca956a7a6eb72c7136b5e4057dd95;Thomas Gastine <gastine@mps.mpg.de>;1380121503;"same in MPI branch
+
+
+"
+pre;magic-sph_magic;1afec219a892fef3db4cca4ea612b05570518612;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1381387885;"new load-balancing (snake-like) for the LMloop. Works up to l/
+n_procs<=l_max/2. For larger n_procs the old load balancing is used. Performance is not yet as good as expected, due to some problems with the nonblocking MPI routines
+"
+pre;magic-sph_magic;576e54a036e1564986d4fd6f269bed3a48aee07a;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1382515812;"replacing system_clock by mpi_wtime
+"
+pre;magic-sph_magic;f8b9785cb1f7ff528646743805ca7e07c5e616df;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1382705054;"some reformatting and replacement of system_clock by mpi_wtime
+"
+pre;magic-sph_magic;ef46a6cce60b215bfdcf530927e88082de33da48;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1383116216;"replaced the cast from double to integer8 for mpi_wtime
+"
+pre;magic-sph_magic;b7d218a158cf23884ffb56ae1ef84f63fc0c5815;Thomas Gastine <gastine@mps.mpg.de>;1383664839;"update for the MPI version
+
+
+"
+pre;magic-sph_magic;27e0aa8d33fc65655ee6772e11c1d58edff99b14;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1384182027;"added preconditioning for the matrices in the LMLoop
+"
+pre;magic-sph_magic;fefb5177c08c7e865aefd25d7774e21453afdf1f;Rakesh Yadav <rakesh.yadav@cfa.harvard.edu>;1384511842;"Heat flux, ohmic-dissipation, magnetic presusre and tension force, and Lorentz force added in 'surf' and 'slice' section.
+"
+pre;magic-sph_magic;8f86528dc02ab345ae8e21433697617f9e81e95c;Thomas Gastine <gastine@mps.mpg.de>;1384515782;"same feature in the MPI version
+
+@ Tilman: should we put the s_legTFGnomag.F90 subroutine into the 
+m_legendre_trafo as you did for the s_legTFG?
+
+Thomas
+
+
+"
+pre;magic-sph_magic;3f9246c9697eb4c662a6dc3f5f955777797652f6;Thomas Gastine <gastine@mps.mpg.de>;1384795393;"sync the MPI branch
+
+
+"
+post;magic-sph_magic;141dd2a85979a762a296c507b8a18a919a9df092;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1392201426;"Merge branch 'mpi' into HEAD
+"
+post;magic-sph_magic;ba3e4c7d8de314cb41929525dd5224d00cafd441;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1392224081;"Pure MPI version, successful testsuite.
+"
+post;magic-sph_magic;8ffab374fdcea16f4fa4c99f0b88b80d0beddd49;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1392283205;"NEW hybrid MPI/OpenMP version.
+"
+post;magic-sph_magic;91b3ac5e14f4151235ce6accf7b930b3bd3b3fcf;Rakesh Yadav <rakesh.yadav@cfa.harvard.edu>;1394460253;"Add near surface (r=0.99*r_o) kinetic energy spectrum; usefull for anelastic simulations; column 6 and 7 in kin_spec file
+"
+post;magic-sph_magic;ef77003608a10022947e8791e0e338a4ecaf9e51;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1394712476;"l_viscBcCalc now works also with legTFGnomag
+"
+post;magic-sph_magic;0cd756cd3c07feddc7de54ffc4ac83b36d93e3ce;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1395064609;"bugfix for l_viscBcCalc
+"
+post;magic-sph_magic;9ace801e678edc7b5f02661a54f4b5a71dad375c;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1395240719;"bugfix for legTFGnomag and some informational changes
+"
+post;magic-sph_magic;4682223e9aaa6c490b5c927f8cd7089c6035ed14;Tilman Dannert <tilman.dannert@ipp.mpg.de>;1397112963;"better stack usage, removed cutils dependence from all files
+"
+post;magic-sph_magic;9a263593eaebbb82382c25f390cbe4600d42f5a0;Johannes Wicht <wicht@mps.mpg.de>;1397548179;"Added possibility to store entropy field.
+"
+post;magic-sph_magic;58fd8d484a589bfe096be47c20f470ec51a7a2df;Johannes Wicht <wicht@mps.mpg.de>;1397548365;"New coeff storage at radial level n_r_array.
+"
+pre;pulp-platform_axi;1c8b9dc807a23c4e5221f13e8fa00ddcef487a42;Fabian Schuiki <fschuiki@iis.ee.thz.ch>;1520585117;"Add addr mod, proper cuts, common_cells dep
+
+Add an AXI4 address modification module which unpacks the address
+signals in an AXI interface and allows them to be altered. This is
+intended as a convenience module to allow for quick address changes.
+
+Also add a proper AXI4 cut that interrupts all combinatorial paths. Drop
+the spill register in favor of the one in common_cells. Add the latter
+as a dependency.
+"
+pre;pulp-platform_axi;c335d2ed172655768d18389180a78cb461a21798;Fabian Schuiki <fschuiki@iis.ee.thz.ch>;1520585268;"Bump version to 0.2.0
+"
+pre;pulp-platform_axi;ba2d130ecce238e98eba0c36295d27a0269846d8;Fabian Schuiki <fschuiki@iis.ee.thz.ch>;1520587560;"Remove factored-out files from manifest
+
+Remove the `axi_find_first_one.sv` file from the manifest.
+"
+pre;pulp-platform_axi;cb819ac66b6811aa9c698cb5bdd484168779917e;Fabian Schuiki <fschuiki@iis.ee.thz.ch>;1520587650;"Add multicuts
+
+Add module to insert multiple cuts into AXI and AXI-Lite busses.
+"
+pre;pulp-platform_axi;65fbc3e55fbcd495bd2e7a859e7225d7897c3d59;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1520602044;"Add AXI ID re-mapper
+"
+pre;pulp-platform_axi;59471b35b22be5d82c16613828f7b0eade5b225c;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1521460156;"Fix drive conflict on remap signal
+"
+pre;pulp-platform_axi;292d85f68be88d56c018c000016613e4b0d87a56;Fabian Schuiki <fschuiki@iis.ee.thz.ch>;1521496621;"Fix typo in multicuts
+"
+pre;pulp-platform_axi;7cbd71d937c1c3dc33c2d915778416f0b15e7573;Fabian Schuiki <fschuiki@iis.ee.thz.ch>;1521497450;"Fix ID remapper width
+"
+pre;pulp-platform_axi;ea764b4f0250eed9d587a0f2b8338b32271f68ea;Fabian Schuiki <fschuiki@iis.ee.thz.ch>;1521564781;"Fix ID remapper, improve axi_join
+"
+pre;pulp-platform_axi;9e77d50bdc18fc56b780ab011f13f5fa65078ffd;Fabian Schuiki <fschuiki@iis.ee.thz.ch>;1521831640;"Remove time unit declaration
+
+Fixes an issue with the AXI interface driver.
+"
+post;pulp-platform_axi;774278fbc8953754f2f930dabe956b877a9ec33a;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1526057874;":bug: Fix release ID problem
+"
+post;pulp-platform_axi;0d3b33c5e34a40d41db6be01f3270c6d0f2f8dd0;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1526227810;"Remove axi_find_first_one from src_files.yml
+"
+post;pulp-platform_axi;121935c09942b18bc52b73a4197414a4d223b890;Fabian Schuiki <fschuiki@iis.ee.ethz.ch>;1527953523;"Add missing testmode pin to axi_to_axi_lite FIFOs
+"
+post;pulp-platform_axi;aacf5f270e9d0403a1cf37c234fdc068ef23d959;Fabian Schuiki <fschuiki@iis.ee.ethz.ch>;1527953757;"Update CHANGELOG and bump version to 0.4.2
+"
+post;pulp-platform_axi;467ee7b92afba80c34f1659dc8c2dbd94e0e0825;Fabian Schuiki <fschuiki@iis.ee.ethz.ch>;1533106401;"Add LICENSE
+
+Add the LICENSE file and adjust the copyright headers across the
+repository. The repository is part of the PULP project and as such was
+intended to be released under that same license. The files until now
+displayed the work-in-progress copyright header.
+
+Also adjust the changelog and bump the version.
+"
+post;pulp-platform_axi;328cbe05a42a31aae6f57f780351a2ba22954fef;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1536228194;"Make slices verilator compatible
+"
+post;pulp-platform_axi;7f697eb7a24e6cafe8181b26f60348a9e227ed58;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1536769035;"Fix common_cells dependency
+"
+post;pulp-platform_axi;6c0bb8b1cdb0045a6a74d00065386c6a4f9d81f7;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1536769103;"Merge branch 'master' of github.com:pulp-platform/axi
+"
+post;pulp-platform_axi;a3aeda5fb95447ecb0e773a01d9287af846052cc;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1537804945;"Switch to fifo_v2 implementation
+"
+post;pulp-platform_axi;a2cd661d01a03b6556da04baf682701aeeccdbf9;Florian Zaruba <zarubaf@iis.ee.ethz.ch>;1537804970;"Merge branch 'master' of https://github.com/pulp-platform/axi
+"
+pre;stan-dev_bayesplot;97394ac649d5725303b2f9a4023166d81afd6c9d;jgabry <jgabry@gmail.com>;1668623952;"fix error in example
+"
+pre;stan-dev_bayesplot;961b988fc8c59fe191bbe59d0f15dfd14772ac52;jgabry <jgabry@gmail.com>;1668639220;"Merge branch 'master' into gh-pages
+"
+pre;stan-dev_bayesplot;1437e24794bb29c6970e4fc4b07830d214d1382a;jgabry <jgabry@gmail.com>;1668639289;"Update graphical-ppcs.Rmd
+"
+pre;stan-dev_bayesplot;bfa379ac43c607047692dbdfe4f976f9e12c9977;jgabry <jgabry@gmail.com>;1668639321;"Update PPC-errors.Rd
+"
+pre;stan-dev_bayesplot;c768042243a72c15ac013b3a932329c9ec44c024;jgabry <jgabry@gmail.com>;1668639323;"Update PPC-loo.Rd
+"
+pre;stan-dev_bayesplot;72ef08245ce07b2c2695e654b0270bb55c816f7d;jgabry <jgabry@gmail.com>;1668640425;"update website for v1.10.0
+"
+pre;stan-dev_bayesplot;6a26868d509e55bd8f6bd17c85ea87e97aa0d660;jgabry <jgabry@gmail.com>;1668640623;"bump to dev version
+"
+pre;stan-dev_bayesplot;8267cede873f5a0e6b65b6119c6c9a7ee2a05778;jgabry <jgabry@gmail.com>;1668640648;"Merge branch 'master' into gh-pages
+"
+pre;stan-dev_bayesplot;6aadb5d6c40647f801fad1bf456c0a102b408d7a;jgabry <jgabry@gmail.com>;1668640770;"finish website for v1.10.0
+"
+pre;stan-dev_bayesplot;621d52a7b7ac86a9f530ddb8da9f3ed3dbfd8c80;jgabry <jgabry@gmail.com>;1668640789;"Update NEWS.md
+"
+post;stan-dev_bayesplot;8a8fdd3e237292ba104a11cb5076eed3a416e38a;Tony Stone <tony-stone@users.noreply.github.com>;1678114252;"Update mcmc-intervals.R
+
+Setting `prob <- FALSE` does not raise an error but has unintended consequences."
+post;stan-dev_bayesplot;4d1558b82b2b8f3eee6b636b76145422a6e813d1;Tony Stone <tony-stone@users.noreply.github.com>;1678114311;"Merge pull request #1 from tony-stone/check-interval-widths-checks
+
+Update mcmc-intervals.R"
+post;stan-dev_bayesplot;6c6b90d3bbb7e2d3f2f750cfa160917739724104;Paul-Christian Bürkner <paul.buerkner@gmail.com>;1678968639;"add 'bins' argument to many histogram plots
+"
+post;stan-dev_bayesplot;3960eaac1ff592a3de63265d530ed5bbdac66af4;jgabry <jgabry@gmail.com>;1678988205;"fix vdiffr tests after ggplot2 fixed geom_hex bug
+"
+post;stan-dev_bayesplot;bf145fcdc058314fbb6eb3b3d8b3e3413c39e51f;Jonah Gabry <jgabry@gmail.com>;1678997977;"Merge pull request #300 from stan-dev/hist-bins
+
+add 'bins' argument to many histogram plots"
+post;stan-dev_bayesplot;260804e3a8ac62e6d86c783ccf4409261a3ba57e;Watal M. Iwasaki <heavywatal@users.noreply.github.com>;1685886504;"Follow ggplot2 updates on facet_grid() and facet_wrap()
+
+- Replace facets with rows/cols for facet_grid()
+- Replace formula ~parameter with vars(parameter)
+
+Addresses #304
+"
+post;stan-dev_bayesplot;2856fe4982a26f60cfe8a9ab0073feb0b37bee2d;Aki Vehtari <Aki.Vehtari@aalto.fi>;1698252889;"better loo_pit_qq plots
+"
+post;stan-dev_bayesplot;17c67cebb1ecd1d573cd2097e111247bd35c4461;jgabry <jgabry@gmail.com>;1699558212;"Create CONTRIBUTING.md
+
+based on tidyverse
+"
+post;stan-dev_bayesplot;069ebb55d08f49bbe2c6d182ea6a5423431fbf65;Tony Stone <tony-stone@users.noreply.github.com>;1699782405;"Merge 4d1558b82b2b8f3eee6b636b76145422a6e813d1 into 17c67cebb1ecd1d573cd2097e111247bd35c4461
+"
+post;stan-dev_bayesplot;cc0272544ca86c7aba3342ba604d9f6ae15bfc61;Watal M. Iwasaki <heavywatal@users.noreply.github.com>;1699782405;"Merge 260804e3a8ac62e6d86c783ccf4409261a3ba57e into 17c67cebb1ecd1d573cd2097e111247bd35c4461
+"
+pre;yeatmanlab_afq-browser;b90f21efd776eb481aa48adb49d8fa3377c50c3f;bloomdt-uw <bloomdt@uw.edu>;1623116925;"version incompatibility pandas and numpy
+"
+pre;yeatmanlab_afq-browser;83cc7261198b1a26b6ba07c323f94a2418cb9c82;Ariel Rokem <arokem@gmail.com>;1623381217;"Merge pull request #287 from bloomdt-uw/master
+
+Adding third import option for nodes.csv"
+pre;yeatmanlab_afq-browser;acccf45327d813772ffa59b3a6d792f071166a07;Ariel Rokem <arokem@gmail.com>;1623381373;"Drops support for Python 2.
+"
+pre;yeatmanlab_afq-browser;739a512047ab5b33a36c3edc623392ee05c81610;Ariel Rokem <arokem@gmail.com>;1623466120;"Updates CI config and installation machinery.
+"
+pre;yeatmanlab_afq-browser;a7d39e9d5118e71dd8859affcaef9c16bfdccc87;Ariel Rokem <arokem@gmail.com>;1623466415;"Adds package data.
+"
+pre;yeatmanlab_afq-browser;681fc641fd5073f011d81b5d2fab4b8a8fdac5af;Ariel Rokem <arokem@gmail.com>;1623466662;"Fixes flake8 linting.
+"
+pre;yeatmanlab_afq-browser;cf49a3f5c806dc30e46c1d70bfc738093e83b632;Ariel Rokem <arokem@gmail.com>;1623466986;"Merge pull request #290 from arokem/update_ci
+
+Updates CI config and installation machinery."
+pre;yeatmanlab_afq-browser;fe97dc89abc12d066259661e2e534b0eb5585f78;Ariel Rokem <arokem@gmail.com>;1623467133;"Install with `dev` so that we have pytest.
+"
+pre;yeatmanlab_afq-browser;a59a372b207af763bdacfa0127735c23d6033c42;Ariel Rokem <arokem@gmail.com>;1623467246;"Merge pull request #288 from arokem/drop_python2
+
+Drops support for Python 2."
+pre;yeatmanlab_afq-browser;00df365dc982224b2168ac522e61dbf5a8ecf1fe;Ariel Rokem <arokem@gmail.com>;1623538860;"Merge 07e551ceac2d61d9f3469a8a9648720b8bcc220f into a59a372b207af763bdacfa0127735c23d6033c42
+"
+post;yeatmanlab_afq-browser;893261e6c98abfc8bb3c89e5446ddcdfd3dfedab;Ariel Rokem <arokem@gmail.com>;1723765538;"MAINT: Require higher versions of Python.
+"
+post;yeatmanlab_afq-browser;1f23fe32ac5547d79b0637b36487b6adb5b0454d;Ariel Rokem <arokem@gmail.com>;1724101805;"Adds ruff to dependencies. Reformats setup with that.
+"
+post;yeatmanlab_afq-browser;a99e0c1ebe179d14064fe63584e856c376efafc2;Ariel Rokem <arokem@gmail.com>;1724101974;"Run the precommit hooks instead of linting.
+"
+post;yeatmanlab_afq-browser;2582d00288e8f1b6ea931ff36fcc5c40404857ea;Ariel Rokem <arokem@gmail.com>;1724103214;"Update pins; fix broken tests.
+"
+post;yeatmanlab_afq-browser;04dfe5f17e05b60f5a6164fa535dac01a29b1314;Ariel Rokem <arokem@gmail.com>;1724103598;"Fix mis-spellings.
+"
+post;yeatmanlab_afq-browser;d4ae96807769700ba513e79f74d3df44d5313606;Ariel Rokem <arokem@gmail.com>;1724111293;"Update documentation machinery.
+"
+post;yeatmanlab_afq-browser;1469076a5a7c51dd5f3232a39e312f7c2d057ef4;Ariel Rokem <arokem@gmail.com>;1724111533;"Adds a doc building workflow.
+"
+post;yeatmanlab_afq-browser;21d8c5d55d8717399d022b8d91671bc9c26a2875;Ariel Rokem <arokem@gmail.com>;1724111602;"Only test with Python > 3.10.
+"
+post;yeatmanlab_afq-browser;43bc5e1f14ebdbae3337c451c43bda7bf6908131;Ariel Rokem <arokem@gmail.com>;1724111874;"Move doc folder to docs.
+"
+post;yeatmanlab_afq-browser;82920d3e4a0f1e926a1d366c41b82da594c4e51a;Ariel Rokem <arokem@gmail.com>;1724112008;"Disambiguate single-character variable name.
+"

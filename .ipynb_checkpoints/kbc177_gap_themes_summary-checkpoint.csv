@@ -1,0 +1,11 @@
+project;LongestGapStart;LongestGapEnd;LongestGapLength;BeforeThemes;AfterThemes;Note
+barbagroup_aeropython;2020-07;2025-04;58;Other:Bug fixes;Other;
+brian-team_brian2genn;2023-08;2024-08;13;Other:Feature development;Automated bot contributions:Other;
+helmchenlabsoftware_cascade;2022-03;2022-04;2;Bug fixes:Automated bot contributions;Automated bot contributions:Other;
+insightsoftwareconsortium_simpleitk-notebooks;2014-09;2015-01;5;Other:Feature development;Other:Documentation updates;
+llnl_hiop;2017-06;2017-07;2;Other:Documentation updates;Other:Bug fixes;
+magic-sph_magic;2013-12;2014-01;2;Other;Other:Feature development;
+pulp-platform_axi;2018-04;2018-04;1;Bug fixes:Feature development;Other:Release;
+pymor_pymor;;;0;;;No gap found
+stan-dev_bayesplot;2022-12;2023-02;3;Other:Release;Other:Feature development;
+yeatmanlab_afq-browser;2021-07;2024-07;37;Other:Feature development;Other:Documentation updates;
